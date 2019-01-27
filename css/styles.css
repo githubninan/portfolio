@@ -1,8 +1,36 @@
-img {
-  width: 70%;
+
+
+body {
+  padding-top: 20px;
 }
-.text {
-  border: 2px solid grey;
+
+  img {
+  width: 30%;
+  margin-left: 10%
+}
+
+.jumbotron p {
+  font-size: 20px;
+  float: left;
+  margin-right: 40%;
+  margin-top: 10%;
+}
+ .text{
   padding:30px;
   margin: 50px
+  float:left;
+  color: grey;
+}
+
+.highlight {
+  color: grey;
+  font-weight: bold;
+}
+.epicodus h3 {
+  font-style: italic;
+  font-size: 20px;
+}
+.hobbies h3 {
+  font-style: italic;
+  font-size: 20px;
 }
